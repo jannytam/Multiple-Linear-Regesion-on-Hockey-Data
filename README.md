@@ -1,5 +1,6 @@
 # Multiple-Linear-Regression-on-Hockey-Data
 **Authors:** Janny Tam, Joel Penner, Peter Baran
+
 **Language:** R
 
 1. Statistical analysis on "The Wideman Effect" that allegedly created a bias against the Calgary Flames with the league's referees in the 2015-2016 season. 
