@@ -1,5 +1,6 @@
 # Multiple-Linear-Regression-on-Hockey-Data
 **Authors:** Janny Tam, Joel Penner, Peter Baran
+**Language:** R
 
 1. Statistical analysis on "The Wideman Effect" that allegedly created a bias against the Calgary Flames with the league's referees in the 2015-2016 season. 
 - Is there a statistical difference between the average amount of penalty minutes for the Calgary Flames before and after the Wideman hit in the 2015-2016 season? (looking at a single season)
@@ -11,4 +12,5 @@
 - Hypothesis Testing (t-test)
 - Permutation Test
 - Bootstrap Method
+- Confidence Intervals
 - Predicting future win percentage
