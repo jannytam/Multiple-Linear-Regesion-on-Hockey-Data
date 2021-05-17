@@ -1,4 +1,4 @@
-# Multiple-Linear-Regression-on-Hockey-Data
+# Statistical-Analysis-on-Hockey-Data
 **Authors:** Janny Tam, Joel Penner, Peter Baran
 
 **Language:** R
